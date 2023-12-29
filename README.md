@@ -20,7 +20,6 @@
 <img align="right" src="https://github.com/SohaibMuhammadKhan/SohaibMuhammadKhan/assets/129584803/9975c675-6fc7-4a6f-9557-e415d0ddc66c">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohaibmuhammadkhan&show_icons=true&theme=dark&locale=en&layout=compact" alt="sohaibmuhammadkhan" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibmuhammadkhan&theme=dark" alt="sohaibmuhammadkhan" /></p>
 <br/>
 
