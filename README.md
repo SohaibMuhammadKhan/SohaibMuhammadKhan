@@ -22,10 +22,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohaibmuhammadkhan&show_icons=true&theme=dark&locale=en&layout=compact" alt="sohaibmuhammadkhan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibmuhammadkhan&theme=dark" alt="sohaibmuhammadkhan" /></p>
-
-
-
 <h2 align="left">📈 Performance Graph:</h2>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibmuhammadkhan&theme=dark" alt="sohaibmuhammadkhan" /></p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SohaibMuhammadKhan&theme=xcode&line=fe9a00&bg_color=151515&point=faffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
