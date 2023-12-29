@@ -23,7 +23,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibmuhammadkhan&theme=dark" alt="sohaibmuhammadkhan" /></p>
 
 <br/>
-<div align="center"><img src="https://github.com/SohaibMuhammadKhan/SohaibMuhammadKhan/assets/129584803/9975c675-6fc7-4a6f-9557-e415d0ddc66c" alt="Centered and Stretched GIF" width="70%"></div>
+<div align="center"><img src="https://github.com/SohaibMuhammadKhan/SohaibMuhammadKhan/assets/129584803/9975c675-6fc7-4a6f-9557-e415d0ddc66c" alt="Centered and Stretched GIF" width="50%"></div>
 <br/>
 
 <h2 align="left">📈 Performance Graph:</h2>
