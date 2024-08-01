@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👀, I'm Sohaib Muhammad Khan</h1>
+<h1 align="center">Hi 👋, I'm Sohaib Muhammad Khan</h1>
 <h3 align="center">"Unlocking Insights through Data Analysis & Crafting Intuitive Interfaces as a Flutter Developer"</h3>
 <h4 align="center">🚀 Flutter Developer | 📊 Data Analyst | 🎨 UI/UX Enthusiast</h4>
 
