@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sohaib Muhammad Khan</h1>
 <h3 align="center">"Unlocking Insights through Data Analysis & Crafting Intuitive Interfaces as a Flutter Developer"</h3>
-<h4 align="center">🚀 Flutter Developer | 📊 Data Analyst | 🎨 UI/UX Enthusiast</h4>
+<h4 align="center">📊 Data Analyst | 🚀 Flutter Developer | 🎨 UI/UX Enthusiast</h4>
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohaibmuhammadkhan&label=Profile%20views&color=fe9a00&style=flat" alt="sohaibmuhammadkhan" /> </p>
