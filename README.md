@@ -5,7 +5,7 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohaibmuhammadkhan&label=Profile%20views&color=fe9a00&style=flat" alt="sohaibmuhammadkhan" /> </p>
 
-- 📱 I’m currently learning **Mobile Application Development using Dart and Flutter.**
+- 📱 I’m currently learning **Data Analytics and Business Intelligence.**
 
 - 📫 How to reach me **sohaib271201@gmail.com**
 
